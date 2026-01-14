@@ -21,3 +21,8 @@ Use cryptographic proofs to verify state transitions before finalizing them on E
 
 Different rollup designs optimize for speed, cost, complexity, and developer experience.
 
+## Why Rollups Are the Current Scaling Path
+
+Ethereum’s roadmap favors rollups because they preserve decentralization while increasing throughput.
+
+Rather than making Ethereum itself faster, rollups allow Ethereum to remain a secure base layer for settlement and data availability.
