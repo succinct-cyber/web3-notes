@@ -19,3 +19,14 @@ Assets designed to maintain price stability, often acting as DeFi’s unit of ac
 
 Most DeFi protocols are not entirely new ideas — they are compositions of these basic primitives with different trade-offs.
 
+## How These Primitives Compose
+
+Most modern DeFi protocols are built by combining these primitives.
+
+For example:
+- A lending protocol may integrate a DEX for liquidations
+- Yield aggregators route capital across multiple lending markets
+
+Understanding primitives makes it easier to evaluate risk and design trade-offs.
+
+
