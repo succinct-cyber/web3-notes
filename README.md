@@ -21,3 +21,10 @@ Each note is written in Markdown and focuses on:
 - core concepts
 - real-world relevance
 - simple explanations without hype
+
+## Structure
+
+- `ethereum/` — Ethereum architecture, Layer 2s, and scaling
+- `defi/` — DeFi primitives and protocol mechanics
+- `ai-x-web3/` — Notes on AI agents and automation
+
